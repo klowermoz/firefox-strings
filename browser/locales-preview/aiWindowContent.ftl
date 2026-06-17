@@ -13,7 +13,7 @@ smartwindow-assistant-error-capacity-header = Smart Window is at capacity right 
 
 ## TODO: ET timezone should be replaced before rolling to other locales: https://bugzilla.mozilla.org/show_bug.cgi?id=2017944
 
-smartwindow-assistant-error-budget-body = You can still browse in this window. Chat will be available again after midnight ET.
+smartwindow-assistant-error-budget-body = You can still browse in this window. Chat will be available again once your daily limit resets.
 smartwindow-assistant-error-many-requests-header = Please wait a moment and try again. Too many messages were sent in a short time.
 smartwindow-assistant-error-max-length-header = It’s time to start a new chat. This one’s reached its length limit.
 smartwindow-assistant-error-request-blocked-header = Smart Window couldn’t reach the server. Try a different network, or disable your VPN.
